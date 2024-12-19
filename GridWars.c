@@ -1,3 +1,4 @@
+//A thrilling, strategic battle of wits on a 3x3 battlefield!
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
