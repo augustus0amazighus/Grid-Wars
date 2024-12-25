@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 #define SIZE 3
 void initializeBoard(char board[SIZE][SIZE]);
 void displayBoard(char board[SIZE][SIZE]);
